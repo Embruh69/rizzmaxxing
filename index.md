@@ -4,7 +4,7 @@ layout: home
 ---
 
 <iframe 
-  src="/path/to/your-file.pdf#toolbar=0&navpanes=0&scrollbar=0" 
+  src="/whahaah.pdf#toolbar=0&navpanes=0&scrollbar=0" 
   width="100%" 
   height="600px" 
   style="border: none;"
@@ -13,8 +13,6 @@ layout: home
 </iframe>
 
 ----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
