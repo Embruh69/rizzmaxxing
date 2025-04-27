@@ -9,7 +9,7 @@ layout: home
   height="600px" 
   style="border: none;"
 >
-  <p>Your browser doesn't support PDFs. <a href="/path/to/your-file.pdf">Download it instead.</a></p>
+  <p>Your browser doesn't support PDFs. <a href="/whahaah.pdf">Download it instead.</a></p>
 </iframe>
 
 ----
