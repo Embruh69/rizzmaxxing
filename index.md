@@ -3,14 +3,10 @@ title: 1.02 - Primaris 3rd
 layout: home
 ---
 
-<iframe 
-  src="./whahaah.pdf#toolbar=0&navpanes=0&scrollbar=0" 
-  width="100%" 
-  height="600px" 
-  style="border: none;"
->
-  <p>Your browser doesn't support PDFs. <a href="./whahaah.pdf">Download it instead.</a></p>
-</iframe>
+![Page 1](./whahaah-1.png)
+![Page 2](./whahaah-2.png)
+![Page 3](./whahaah-3.png)
+![Page 4](./whahaah-4.png)
 
 ----
 
