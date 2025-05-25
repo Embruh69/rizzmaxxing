@@ -3,6 +3,9 @@ description: A Compilation of Journals Published by the Academy.
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
+
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
