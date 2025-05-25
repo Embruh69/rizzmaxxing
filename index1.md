@@ -11,5 +11,5 @@ layout: home
 ![Page 5](./paper2/IEEE_Conference_Template_page-0005.jpg)
 ![Page 6](./paper2/IEEE_Conference_Template_page-0006.jpg)
 
-<a href="embruh69.github.io/paper2/IEEE_Conference_Template.pdf" target="_blank">View as PDF.</a>
+<a href="https://embruh69.github.io/rizzmaxxing/paper2/IEEE_Conference_Template.pdf" target="_blank">View as PDF.</a>
 ---
